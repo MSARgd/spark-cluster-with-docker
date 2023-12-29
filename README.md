@@ -13,11 +13,9 @@ Spark cluster using docker
 
 1. Clone this repository:
 
-    ```bash
-    git clone https://github.com/MSARgd/spark-cluster-with-docker.git
-    ```
-
-
+   ```bash
+   git clone https://github.com/MSARgd/spark-cluster-with-docker.git
+   ```
 
 ## Screenshots
 
@@ -29,6 +27,7 @@ Spark cluster using docker
 ![](screenes/4.png)
 ![](screenes/5.png)
 
-![](screenes/6.png)
+![](screenes/7.png)
 
-
+![](screenes/8.png)
+![](screenes/9.png)

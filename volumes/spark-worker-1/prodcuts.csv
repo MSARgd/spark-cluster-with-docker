@@ -1,0 +1,11 @@
+id,name,description,features,price,keywords,url,category,subcategory
+1,Product A,"This is Product A, a high-quality item.","High durability, Lightweight design, Water-resistant",99.99,"electronics, gadgets, technology","https://example.com/productA","Electronics","Gadgets"
+2,Product B,"Product B is versatile and reliable.","Multiple color options, Durable material",49.99,"clothing, fashion, style","https://example.com/productB","Clothing","Accessories"
+3,Product C,"Compact and efficient for daily use.","Energy-saving, Portable size",29.99,"home, kitchen, appliances","https://example.com/productC","Home","Appliances"
+4,Product D,"Durable and stylish headphones.","Noise-cancelling, Comfortable fit",129.99,"electronics, music, audio","https://example.com/productD","Electronics","Audio"
+5,Product E,"Sleek design and powerful performance.","High-speed processor, Large storage capacity",899.99,"electronics, computers, technology","https://example.com/productE","Electronics","Computers"
+6,Product F,"Comfortable and trendy shoes.","Breathable material, Anti-slip sole",69.99,"shoes, footwear, fashion","https://example.com/productF","Clothing","Footwear"
+7,Product G,"Smart and innovative home assistant.","Voice-controlled, Smart home integration",149.99,"electronics, smart home, technology","https://example.com/productG","Electronics","Smart Home"
+8,Product H,"Classic and elegant watch.","Water-resistant, Stainless steel build",199.99,"watches, accessories, style","https://example.com/productH","Accessories","Watches"
+9,Product I,"Multi-functional kitchen appliance.","Versatile use, Easy to clean",79.99,"home, kitchen, appliances","https://example.com/productI","Home","Kitchen"
+10,Product J,"Stylish backpack for everyday use.","Spacious compartments, Durable fabric",39.99,"bags, accessories, travel","https://example.com/productJ","Accessories","Bags"
